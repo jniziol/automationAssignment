@@ -1,3 +1,3 @@
 button.addEventListener('click', () => {
-  alert("Aren't Birds Great?");
+  alert("Aren't Birds Okay?");
 });
